@@ -27,7 +27,7 @@
 
 ## Инсталација
 
-> git clone git@github.com:anaivanovska/-DMS-Diabetes-Monitoring-System.git
+> git clone git@github.com:jveljanoski/-DMS-Diabetes-Monitoring-System.git
 
 ## Изработилe
 
