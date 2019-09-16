@@ -24,6 +24,9 @@
 
 * [Bootstrap 4](<https://github.com/twbs/bootstrap>) 
 * [jQuery](<http://jquery.com>)
+* [JavaScript](<https://javascript.info/>)
+* [HTML](<https://html.com/>)
+* [CSS](<https://css-tricks.com/>)
 
 ## Инсталација
 
