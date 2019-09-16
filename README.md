@@ -25,10 +25,14 @@ __За изработка на проектот се употребени сле
 * [Bootstrap 4](<https://github.com/twbs/bootstrap>) 
 * [jQuery](<http://jquery.com>)
 
+__Инсталација__
+
+>git clone git@github.com:anaivanovska/-DMS-Diabetes-Monitoring-System.git
+
 __Изработил__
 
 Стефан Доневски 153105		
 
-Јовица Велјаноски 153190
+Јовица Вељаноски 153190
 
 Трајче Велев 153031
